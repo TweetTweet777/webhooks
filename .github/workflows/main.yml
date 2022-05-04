@@ -10,4 +10,4 @@ jobs:
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
       with:
-        args: README.md
+        args: yt1s.com - super idol 的笑容都没你的甜.mp4
